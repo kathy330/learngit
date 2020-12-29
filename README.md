@@ -2,4 +2,4 @@ This is the first repo for learning git.
 
 Modified.
 
-new
+git push to Orgin/Main
